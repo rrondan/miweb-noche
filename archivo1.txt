@@ -1,1 +1,3 @@
 Pollo feliz
+Gallo triste
+Estudiante aburrido
